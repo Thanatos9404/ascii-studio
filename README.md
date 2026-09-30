@@ -4,7 +4,7 @@ Turn videos into high-performance real ASCII animations :)
 
 ASCII Studio processes video frames in real time and converts them into precise ASCII representations using an optimized rendering pipeline.
 
-Customize density, contrast, and character sets to generate unique outputs, all without leaving the browser.
+Customize density, contrast, and character sets to generate unique outputs, all without leaving your own browser.
 
 ## Sponsors
 
