@@ -141,6 +141,10 @@ Supported by the [Vercel Open Source Program](https://vercel.com/open-source-pro
   <img alt="Vercel OSS Program" src="https://vercel.com/oss/program-badge-2026.svg" />
 </a>
 
+## Testing
+
+This project is tested with BrowserStack.
+
 ## Star history
 
 <a href="https://www.star-history.com/?repos=vansh-nagar%2Fascii-studio&type=date&legend=top-left">
