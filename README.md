@@ -14,6 +14,12 @@ Customize density, contrast, and character sets to generate unique outputs, all 
 
 ---
 
+## Friends
+
+- [PikoReels](https://pikoreels.com/): AI UGC video generator that posts for you.
+
+---
+
 ## Powered by Vercel
 
 <img src="https://github.com/user-attachments/assets/5bc3b368-d71a-48aa-b45f-67cbf49fe538" />
