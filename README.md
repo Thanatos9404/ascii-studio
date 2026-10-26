@@ -141,6 +141,10 @@ Supported by the [Vercel Open Source Program](https://vercel.com/open-source-pro
   <img alt="Vercel OSS Program" src="https://vercel.com/oss/program-badge-2026.svg" />
 </a>
 
+## Friends
+
+- [PikoReels](https://pikoreels.com/): AI UGC video generator that posts for you.
+
 ## Testing
 
 This project is tested with BrowserStack.

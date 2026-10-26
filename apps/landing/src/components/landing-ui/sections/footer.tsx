@@ -97,21 +97,34 @@ const Footer = () => {
             borderRadius: "12px",
           }}
         >
-          <Link
-            href="/"
-            className="flex items-center gap-2 transition-all duration-300 hover:opacity-80"
-          >
-            <img
-              src="/logo/logo.png"
-              alt="Logo"
-              className="object-cover h-8 w-8 sm:h-12 sm:w-12 aspect-square rounded-full shrink-0"
-              width={48}
-              height={48}
-            />
-            <span className=" text-2xl whitespace-nowrap font-medium">
-              Ascii Studio
-            </span>
-          </Link>
+          <div className="flex flex-wrap items-center justify-between gap-2">
+            <Link
+              href="/"
+              className="flex items-center gap-2 transition-all duration-300 hover:opacity-80"
+            >
+              <img
+                src="/logo/logo.png"
+                alt="Logo"
+                className="object-cover h-8 w-8 sm:h-12 sm:w-12 aspect-square rounded-full shrink-0"
+                width={48}
+                height={48}
+              />
+              <span className=" text-2xl whitespace-nowrap font-medium">
+                Ascii Studio
+              </span>
+            </Link>
+            <div className="text-sm text-muted-foreground">
+              Friends:{" "}
+              <a
+                href="https://pikoreels.com/"
+                target="_blank"
+                rel="noopener"
+                className="text-foreground underline underline-offset-4 transition-opacity duration-200 hover:opacity-70"
+              >
+                PikoReels, AI UGC video generator
+              </a>
+            </div>
+          </div>
           <svg
             className="w-full my-2 sm:my-4"
             height="3"
